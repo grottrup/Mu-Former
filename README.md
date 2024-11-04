@@ -12,8 +12,7 @@ conda
 ```
 
 ```
-pip install --upgrade torch
-
+conda install pytorch::pytorch
 ```
 
 # Introduction 
