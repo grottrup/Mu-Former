@@ -1,3 +1,16 @@
+# For Tibo
+
+```
+git clone https://github.com/grottrup/Mu-Former.git
+sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+curl -O https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
+```
+Restart the terminal and check Anaconda is installed
+
+```
+conda
+```
+
 # Introduction 
 The repository primarily hosts the code for μFormer, or Mu-Former, uFormer, Muformer for readability, a potent tool tailored for predicting the effects of protein mutations. It is configured to facilitate the replication of the models presented in the paper titled *Accelerating protein engineering with fitness landscape modeling and reinforcement learning* which can be accessed at [this link](https://www.biorxiv.org/content/10.1101/2023.11.16.565910v2). Please note that the official release of this repository is expected soon. It will receive ongoing updates and maintenance. After its release, this current repository will be retired.
 
