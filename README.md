@@ -11,6 +11,11 @@ Restart the terminal and check Anaconda is installed
 conda
 ```
 
+```
+pip install --upgrade torch
+
+```
+
 # Introduction 
 The repository primarily hosts the code for μFormer, or Mu-Former, uFormer, Muformer for readability, a potent tool tailored for predicting the effects of protein mutations. It is configured to facilitate the replication of the models presented in the paper titled *Accelerating protein engineering with fitness landscape modeling and reinforcement learning* which can be accessed at [this link](https://www.biorxiv.org/content/10.1101/2023.11.16.565910v2). Please note that the official release of this repository is expected soon. It will receive ongoing updates and maintenance. After its release, this current repository will be retired.
 
